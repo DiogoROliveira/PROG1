@@ -1,0 +1,8 @@
+Relatorio diario de vendas - 24/5/2023
+
+Data: 24/5/2023
+Produto: carne, codigo 1
+Quantidade vendida: 3
+
+Receita Total: 3.00 euros
+

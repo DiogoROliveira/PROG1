@@ -1,0 +1,12 @@
+Relatorio mensal de vendas -  Maio de 2023
+
+Data: 24/5/2023
+Produto: carne, codigo 1
+Quantidade vendida: 3
+
+Data: 23/5/2023
+Produto: carne, codigo 1
+Quantidade vendida: 1
+
+Receita Total: 4.00 euros
+
